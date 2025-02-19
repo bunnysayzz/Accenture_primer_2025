@@ -1,0 +1,12 @@
+Mrs. Jessy teaches her 7-year-old daughter to tell the day of a week when Jessy tells a number between 1 to 7.  Implement this scenario and generate an algorithm for the same.
+
+Answer text
+
+
+Start the program.
+Create String array of length 7.
+Initialize the array with Sunday, Monday...Saturday from 0...6.
+Get the day of the week.
+if 0<day of the week<8, then display array[day of the week - 1].
+else display Invalid.
+Stop.

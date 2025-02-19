@@ -1,0 +1,12 @@
+Tony crosses a street that is ‘x’ m long in 'y' minutes. Write an algorithm to compute his speed in km per hour, given x and y.
+
+Hint: speed=distance/time
+
+
+Start the program.
+Get distance and speed.
+Convert distance in metre to kilo metre, ie distance = distance/1000.
+Convert time in minutes to hours, ie time = time/60. 
+Calculate speed = distance/time.
+display speed.
+stop.

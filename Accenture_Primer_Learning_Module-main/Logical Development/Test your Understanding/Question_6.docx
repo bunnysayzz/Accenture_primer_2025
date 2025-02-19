@@ -1,0 +1,13 @@
+“Brain Storm” a popular matriculation school in your place is conducting a science exhibition. Alex needs your help to present his project named as “Simple Calculator”. Help him to write an algorithm to create a simple calculator that performs basic arithmetic operations (add, subtract, multiply and divide).
+
+Start the program.
+Get two vaiable num1, num2.
+Get operation name in variable operations.
+if operation is addition, then 
+display (num1+num2).
+otherwise, if operation is subtraction, then
+dispaly (num1-num2).
+otherwise, if operation is multiply, then
+dispaly (num1*num2).
+else display (num1/num2).
+stop
